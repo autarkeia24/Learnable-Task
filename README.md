@@ -33,8 +33,15 @@ In summary, Git is the version control system itself, while GitHub is a web-base
 3. Gitea
 
 
-### 
+### Explain the difference between git fetch and git pull
 
+| S/N | git fetch | git pull
+| -- | ----- | ----- |
+| 1. | It retrieves changes from the remote repository but does not automatically merge them to the local working branch | It automatically retrieves changes from the remote repository and merges them into your local working branch.|
+| 2. | It fetches only, you still have to merge the changes separately to effect changes | It is a combination of fetching and merging. |
+
+
+### Explain in simple terms git rebase and the command for it
 
 
 
