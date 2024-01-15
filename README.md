@@ -48,7 +48,7 @@ In summary, Git is the version control system itself, while GitHub is a web-base
 
 ### Explain in simple terms git cherry-pick and the command for it 
 
-
+**Git cherry-pick** is a command that allows you to take a specific commit from one branch and apply it to another branch. It's like plucking a single commit from a tree (branch) and adding it to a different tree. The basic syntax for the git cherry-pick command is **"git cherry-pick"**.
 
 
 
