@@ -43,6 +43,13 @@ In summary, Git is the version control system itself, while GitHub is a web-base
 
 ### Explain in simple terms git rebase and the command for it
 
+**Git rebase** is a command used in Git to modify the commit history of a branch. Unlike *git merge*, which combines the changes from one branch into another, **git rebase** integrates the changes by moving or combining a sequence of commits to a new base commit. This results in a linear and cleaner commit history. It is like reorganizing the commits of a branch. The command for it is **"git rebase"**.
+
+
+### Explain in simple terms git cherry-pick and the command for it 
+
+
+
 
 
 
